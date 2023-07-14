@@ -407,6 +407,11 @@ img {
   font-size: var(--smaller-font-size);
 }
 
+
+
+
+/* Education */
+
 /* ===== MEDIA QUERIES=====*/
 @media screen and (max-width: 320px) {
   .home {
